@@ -1,0 +1,62 @@
+.p{
+  font-family: Arial,
+}
+
+
+.name-title{
+font-size: 80px;
+margin-bottom:10px;
+
+}
+.third-text-section,
+.second-text-section,
+.first-text-section{
+ 
+ font-size: 0px;
+  
+  
+}
+.progression-title,
+.skills-title,
+.social-media-title,
+.career-experiance-title{
+  color: rgb(6, 145, 6);
+  font-size: 25px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+
+}
+.education-title{
+  font-size: 25px;
+  margin: 0px;
+  color: green;
+}
+
+.school-information{
+  color: rgb(7, 134, 176);
+  font-size: 35px;
+  margin-bottom: 0px;
+
+}
+.time-spent{
+  font-size: 35px;
+  margin-top:0px;
+  margin-bottom: 10px;
+}
+.email,
+.phone-number,
+.home-address,
+.city-state-zip,
+.skills,
+.school-activites,
+.github-profile,
+.career-experiance{
+  font-size: 30px;
+  margin: 0px;
+}
+
+.skills-two{
+  font-size: 30px;
+  margin-top: 0px;
+  margin-bottom: 30px;
+}
